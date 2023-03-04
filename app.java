@@ -1,1 +1,2 @@
-This is great
+This is great,
+bug removed,
